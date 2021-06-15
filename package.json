@@ -1,0 +1,26 @@
+{
+  "name": "standard-timespan",
+  "version": "1.0.0",
+  "description": "An extension of the Luxon library to support timespans.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darksinge/standard-timespan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darksinge/standard-timespan/issues"
+  },
+  "homepage": "https://github.com/darksinge/standard-timespan#readme",
+  "dependencies": {
+    "luxon": "^1.27.0"
+  }
+}
